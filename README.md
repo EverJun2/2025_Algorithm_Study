@@ -14,4 +14,8 @@
     <td> <b> 2025.07.10</td>
     <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/1339.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%88%98%ED%95%99"> #1339. 단어 수학 </a> </td>
   </tr>
+  <tr>
+    <td> <b> 2025.07.11</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0"> #2644. 촌수계산 </a> </td>
+  </tr>
 </table>
