@@ -18,4 +18,32 @@
     <td> <b> 2025.07.11</td>
     <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0"> #2644. 촌수계산 </a> </td>
   </tr>
+      <tr>
+    <td> <b> 2025.07.12</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2170.%E2%80%85%EC%84%A0%E2%80%85%EA%B8%8B%EA%B8%B0"> #2170. 선 긋기 </a> </td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.13</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2294.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%852"> #2294. 동전 2 </a> </td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.14</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/15989.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0%E2%80%854"> #15989. 1， 2， 3 더하기 4 </a> </td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.15</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1543.%E2%80%85%EB%AC%B8%EC%84%9C%E2%80%85%EA%B2%80%EC%83%89"> #1543. 문서 검색 </a> </td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.16</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2225.%E2%80%85%ED%95%A9%EB%B6%84%ED%95%B4"> #2225. 합분해 </a> </td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.18</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2631.%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0"> #2631. 줄세우기 </a> </td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.19</td>
+    <td> <a href = ""> #</a> </td>
+  </tr>
 </table>
