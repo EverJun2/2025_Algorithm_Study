@@ -42,8 +42,20 @@
     <td> <b> 2025.07.18</td>
     <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/2631.%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0"> #2631. 줄세우기 </a> </td>
   </tr>
-      <tr>
+  <tr>
     <td> <b> 2025.07.19</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2583.%E2%80%85%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0"> # 2583. 영역 구하기 </a></td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.20</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD"> # 10026. 적록색약 </a></td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.21</td>
+    <td> <a href = "https://github.com/EverJun2/2025_Algorithm_Study/tree/main/%EB%B0%B1%EC%A4%80/Gold/11054.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4"> # 11054. 가장 긴 바이토닉 부분 수열 </a> </td>
+  </tr>
+      <tr>
+    <td> <b> 2025.07.22</td>
     <td> <a href = ""> #</a> </td>
   </tr>
 </table>
